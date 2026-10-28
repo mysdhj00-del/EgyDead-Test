@@ -1,0 +1,23 @@
+[
+    {
+        "fileHash": "sha256-cf17f7d9b1c44865dc29870c82b4ce817fd55b2443b1418083fbc12497d326af",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mysdhj00-del/EgyDead-Test",
+        "fileSize": 18082,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Developer"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "EgyDead",
+        "description": "EgyDead - Arabic dubbed/subtitled movies, series and anime (Gemini test build)",
+        "url": "https://raw.githubusercontent.com/mysdhj00-del/EgyDead-Test/builds/EgyDead.cs3",
+        "name": "EgyDead"
+    }
+]
